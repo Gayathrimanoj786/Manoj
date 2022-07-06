@@ -17,7 +17,7 @@ public class Login
         ss1 = Convert.ToInt16(sr.ReadLine());
 
 
-        int c = 2;
+        int c = 3;
 
         
         while (c < ss1)
