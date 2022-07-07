@@ -10,7 +10,7 @@ public class Exercise2
     Console.Write("\n\n");
     Console.Write("Input an integer : ");
     num1= Convert.ToInt32(Console.ReadLine()); 
-    rem1 = num1 % 2;
+    rem1 = num1 % 1;
     if (rem1 == 0)
  Console.WriteLine("{0} is an even integer.\n",num1);
     else
