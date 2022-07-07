@@ -3,7 +3,7 @@ public class Exercise2
 {  
     public static void Main()  
     {
-    int num1, num2, rem1,rem2;
+    int num1, num2, rem1;
     Console.Write("\n\n");
     Console.Write("Check whether a number is even or odd :\n");
     Console.Write("---------------------------------------");
